@@ -1,0 +1,8 @@
+rich==13.7.0
+questionary==2.0.1
+plotext==5.2.8
+pyfiglet==1.0.2
+pandas==2.1.0
+python-dotenv==1.0.0
+colorama==0.4.6
+pyperclip==1.8.2

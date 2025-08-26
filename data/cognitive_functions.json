@@ -1,0 +1,102 @@
+{
+  "functions": {
+    "Ni": {
+      "name": "Introverted Intuition",
+      "description": "Sees patterns, meanings, and connections. Focuses on future implications and insights.",
+      "characteristics": [
+        "Synthesizes information unconsciously",
+        "Has 'aha' moments of clarity",
+        "Sees the big picture",
+        "Focuses on one vision or insight"
+      ]
+    },
+    "Ne": {
+      "name": "Extraverted Intuition",
+      "description": "Explores possibilities and potential. Sees connections between disparate ideas.",
+      "characteristics": [
+        "Generates multiple possibilities",
+        "Makes creative connections",
+        "Brainstorms enthusiastically",
+        "Sees patterns across different contexts"
+      ]
+    },
+    "Si": {
+      "name": "Introverted Sensing",
+      "description": "Compares present experiences with past ones. Values tradition and personal experience.",
+      "characteristics": [
+        "Recalls detailed memories",
+        "Compares present to past",
+        "Values routine and tradition",
+        "Notices changes from the norm"
+      ]
+    },
+    "Se": {
+      "name": "Extraverted Sensing",
+      "description": "Engages fully with the present moment. Aware of physical environment and sensations.",
+      "characteristics": [
+        "Lives in the present",
+        "Notices environmental details",
+        "Enjoys sensory experiences",
+        "Takes action in the moment"
+      ]
+    },
+    "Ti": {
+      "name": "Introverted Thinking",
+      "description": "Creates internal logical frameworks. Seeks precision and accuracy in understanding.",
+      "characteristics": [
+        "Analyzes for logical consistency",
+        "Creates mental models",
+        "Seeks precise definitions",
+        "Values accuracy over consensus"
+      ]
+    },
+    "Te": {
+      "name": "Extraverted Thinking",
+      "description": "Organizes the external world efficiently. Focuses on objective metrics and results.",
+      "characteristics": [
+        "Makes decisions quickly",
+        "Organizes for efficiency",
+        "Focuses on measurable outcomes",
+        "Values productivity and results"
+      ]
+    },
+    "Fi": {
+      "name": "Introverted Feeling",
+      "description": "Maintains strong personal values and authenticity. Seeks inner harmony.",
+      "characteristics": [
+        "Strong personal value system",
+        "Seeks authenticity",
+        "Deeply empathetic",
+        "Values individuality"
+      ]
+    },
+    "Fe": {
+      "name": "Extraverted Feeling",
+      "description": "Creates harmony in groups. Considers others' emotions and social dynamics.",
+      "characteristics": [
+        "Maintains group harmony",
+        "Reads social atmosphere",
+        "Considers others' feelings",
+        "Values social connection"
+      ]
+    }
+  },
+  "stacks": {
+    "INTJ": ["Ni", "Te", "Fi", "Se"],
+    "INTP": ["Ti", "Ne", "Si", "Fe"],
+    "ENTJ": ["Te", "Ni", "Se", "Fi"],
+    "ENTP": ["Ne", "Ti", "Fe", "Si"],
+    "INFJ": ["Ni", "Fe", "Ti", "Se"],
+    "INFP": ["Fi", "Ne", "Si", "Te"],
+    "ENFJ": ["Fe", "Ni", "Se", "Ti"],
+    "ENFP": ["Ne", "Fi", "Te", "Si"],
+    "ISTJ": ["Si", "Te", "Fi", "Ne"],
+    "ISFJ": ["Si", "Fe", "Ti", "Ne"],
+    "ESTJ": ["Te", "Si", "Ne", "Fi"],
+    "ESFJ": ["Fe", "Si", "Ne", "Ti"],
+    "ISTP": ["Ti", "Se", "Ni", "Fe"],
+    "ISFP": ["Fi", "Se", "Ni", "Te"],
+    "ESTP": ["Se", "Ti", "Fe", "Ni"],
+    "ESFP": ["Se", "Fi", "Te", "Ni"]
+  }
+}

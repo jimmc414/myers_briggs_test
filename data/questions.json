@@ -1,0 +1,1324 @@
+{
+  "questions": [
+    {
+      "id": "E_I_001",
+      "dimension": "E_I",
+      "text": "At social gatherings, I tend to...",
+      "type": "situational",
+      "priority": 1,
+      "reverse_coded": false,
+      "options": [
+        {"text": "Talk to many different people", "value": 5},
+        {"text": "Mostly talk to many people", "value": 4},
+        {"text": "No strong preference", "value": 3},
+        {"text": "Mostly have deep conversations with few", "value": 2},
+        {"text": "Have deep conversations with one or two people", "value": 1}
+      ]
+    },
+    {
+      "id": "E_I_002",
+      "dimension": "E_I",
+      "text": "I recharge my energy by...",
+      "type": "self_descriptive",
+      "priority": 1,
+      "reverse_coded": true,
+      "options": [
+        {"text": "Spending time alone", "value": 5},
+        {"text": "Mostly spending time alone", "value": 4},
+        {"text": "Either way works", "value": 3},
+        {"text": "Mostly being with others", "value": 2},
+        {"text": "Being with other people", "value": 1}
+      ]
+    },
+    {
+      "id": "E_I_003",
+      "dimension": "E_I",
+      "text": "In group discussions, I usually...",
+      "type": "behavioral",
+      "priority": 1,
+      "reverse_coded": false,
+      "options": [
+        {"text": "Speak up immediately with my thoughts", "value": 5},
+        {"text": "Often share my ideas readily", "value": 4},
+        {"text": "Share when I have something important", "value": 3},
+        {"text": "Usually listen more than speak", "value": 2},
+        {"text": "Prefer to listen and reflect before speaking", "value": 1}
+      ]
+    },
+    {
+      "id": "E_I_004",
+      "dimension": "E_I",
+      "text": "My ideal weekend involves...",
+      "type": "preference",
+      "priority": 2,
+      "reverse_coded": true,
+      "options": [
+        {"text": "Quiet time with a book or hobby", "value": 5},
+        {"text": "Mostly quiet activities", "value": 4},
+        {"text": "A mix of social and solo time", "value": 3},
+        {"text": "Some social activities", "value": 2},
+        {"text": "Multiple social events and gatherings", "value": 1}
+      ]
+    },
+    {
+      "id": "E_I_005",
+      "dimension": "E_I",
+      "text": "When working on projects, I prefer...",
+      "type": "work_style",
+      "priority": 1,
+      "reverse_coded": false,
+      "options": [
+        {"text": "Collaborating with a team", "value": 5},
+        {"text": "Mostly working with others", "value": 4},
+        {"text": "Either collaborative or solo work", "value": 3},
+        {"text": "Mostly working alone", "value": 2},
+        {"text": "Working independently", "value": 1}
+      ]
+    },
+    {
+      "id": "E_I_006",
+      "dimension": "E_I",
+      "text": "After a long day at work, I prefer to...",
+      "type": "situational",
+      "priority": 3,
+      "reverse_coded": true,
+      "options": [
+        {"text": "Go home and relax alone", "value": 5},
+        {"text": "Usually prefer alone time", "value": 4},
+        {"text": "Depends on my mood", "value": 3},
+        {"text": "Sometimes meet friends", "value": 2},
+        {"text": "Meet up with friends or colleagues", "value": 1}
+      ]
+    },
+    {
+      "id": "E_I_007",
+      "dimension": "E_I",
+      "text": "I think best when...",
+      "type": "cognitive",
+      "priority": 2,
+      "reverse_coded": false,
+      "options": [
+        {"text": "Talking through ideas with others", "value": 5},
+        {"text": "Often discussing with others", "value": 4},
+        {"text": "Sometimes alone, sometimes with others", "value": 3},
+        {"text": "Usually in quiet reflection", "value": 2},
+        {"text": "I have quiet time to reflect", "value": 1}
+      ]
+    },
+    {
+      "id": "E_I_008",
+      "dimension": "E_I",
+      "text": "At parties or events, I feel energized when...",
+      "type": "emotional",
+      "priority": 3,
+      "reverse_coded": false,
+      "options": [
+        {"text": "I'm meeting lots of new people", "value": 5},
+        {"text": "I'm in the center of activities", "value": 4},
+        {"text": "There's a good balance", "value": 3},
+        {"text": "I can have meaningful conversations", "value": 2},
+        {"text": "I find a quiet corner with close friends", "value": 1}
+      ]
+    },
+    {
+      "id": "E_I_009",
+      "dimension": "E_I",
+      "text": "I prefer phone calls that are...",
+      "type": "communication",
+      "priority": 3,
+      "reverse_coded": true,
+      "options": [
+        {"text": "Brief and to the point", "value": 5},
+        {"text": "Usually short", "value": 4},
+        {"text": "Moderate length", "value": 3},
+        {"text": "Sometimes lengthy", "value": 2},
+        {"text": "Long and conversational", "value": 1}
+      ]
+    },
+    {
+      "id": "E_I_010",
+      "dimension": "E_I",
+      "text": "In new situations, I tend to...",
+      "type": "behavioral",
+      "priority": 2,
+      "reverse_coded": false,
+      "options": [
+        {"text": "Jump right in and introduce myself", "value": 5},
+        {"text": "Usually approach others first", "value": 4},
+        {"text": "Assess then engage", "value": 3},
+        {"text": "Often wait to be approached", "value": 2},
+        {"text": "Observe from the sidelines first", "value": 1}
+      ]
+    },
+    {
+      "id": "E_I_011",
+      "dimension": "E_I",
+      "text": "My friends would describe me as...",
+      "type": "social_perception",
+      "priority": 3,
+      "reverse_coded": false,
+      "options": [
+        {"text": "Outgoing and sociable", "value": 5},
+        {"text": "Generally sociable", "value": 4},
+        {"text": "Balanced", "value": 3},
+        {"text": "Somewhat reserved", "value": 2},
+        {"text": "Quiet and reserved", "value": 1}
+      ]
+    },
+    {
+      "id": "E_I_012",
+      "dimension": "E_I",
+      "text": "I prefer vacations that involve...",
+      "type": "preference",
+      "priority": 3,
+      "reverse_coded": true,
+      "options": [
+        {"text": "Solitude and peaceful settings", "value": 5},
+        {"text": "Mostly quiet relaxation", "value": 4},
+        {"text": "A mix of activities", "value": 3},
+        {"text": "Some group activities", "value": 2},
+        {"text": "Group tours and social activities", "value": 1}
+      ]
+    },
+    {
+      "id": "E_I_013",
+      "dimension": "E_I",
+      "text": "When solving problems, I prefer to...",
+      "type": "cognitive",
+      "priority": 2,
+      "reverse_coded": false,
+      "options": [
+        {"text": "Brainstorm with a group", "value": 5},
+        {"text": "Often collaborate", "value": 4},
+        {"text": "Sometimes collaborate", "value": 3},
+        {"text": "Mostly work alone", "value": 2},
+        {"text": "Think through it independently", "value": 1}
+      ]
+    },
+    {
+      "id": "E_I_014",
+      "dimension": "E_I",
+      "text": "I feel most comfortable when...",
+      "type": "comfort",
+      "priority": 3,
+      "reverse_coded": true,
+      "options": [
+        {"text": "I have plenty of alone time", "value": 5},
+        {"text": "I have regular quiet time", "value": 4},
+        {"text": "I have balanced social time", "value": 3},
+        {"text": "I have some social interaction", "value": 2},
+        {"text": "I'm surrounded by people", "value": 1}
+      ]
+    },
+    {
+      "id": "E_I_015",
+      "dimension": "E_I",
+      "text": "In meetings, I typically...",
+      "type": "work_style",
+      "priority": 2,
+      "reverse_coded": false,
+      "options": [
+        {"text": "Contribute ideas frequently", "value": 5},
+        {"text": "Often speak up", "value": 4},
+        {"text": "Contribute when relevant", "value": 3},
+        {"text": "Mostly listen", "value": 2},
+        {"text": "Listen and process internally", "value": 1}
+      ]
+    },
+    {
+      "id": "E_I_016",
+      "dimension": "E_I",
+      "text": "My energy levels are highest when...",
+      "type": "energy",
+      "priority": 3,
+      "reverse_coded": false,
+      "options": [
+        {"text": "I'm interacting with many people", "value": 5},
+        {"text": "I'm in social settings", "value": 4},
+        {"text": "I have variety", "value": 3},
+        {"text": "I have some quiet time", "value": 2},
+        {"text": "I'm in a quiet environment", "value": 1}
+      ]
+    },
+    {
+      "id": "E_I_017",
+      "dimension": "E_I",
+      "text": "I prefer to share personal news by...",
+      "type": "communication",
+      "priority": 3,
+      "reverse_coded": false,
+      "options": [
+        {"text": "Telling many people in person", "value": 5},
+        {"text": "Sharing with groups", "value": 4},
+        {"text": "Selective sharing", "value": 3},
+        {"text": "Telling a few close people", "value": 2},
+        {"text": "Keeping it mostly to myself", "value": 1}
+      ]
+    },
+    {
+      "id": "E_I_018",
+      "dimension": "E_I",
+      "text": "Large crowds make me feel...",
+      "type": "emotional",
+      "priority": 2,
+      "reverse_coded": true,
+      "options": [
+        {"text": "Overwhelmed and drained", "value": 5},
+        {"text": "Often uncomfortable", "value": 4},
+        {"text": "Neither energized nor drained", "value": 3},
+        {"text": "Sometimes energized", "value": 2},
+        {"text": "Energized and excited", "value": 1}
+      ]
+    },
+    {
+      "id": "E_I_019",
+      "dimension": "E_I",
+      "text": "I learn best through...",
+      "type": "learning",
+      "priority": 3,
+      "reverse_coded": false,
+      "options": [
+        {"text": "Group discussions and interaction", "value": 5},
+        {"text": "Collaborative learning", "value": 4},
+        {"text": "Mixed methods", "value": 3},
+        {"text": "Some independent study", "value": 2},
+        {"text": "Independent study and reflection", "value": 1}
+      ]
+    },
+    {
+      "id": "E_I_020",
+      "dimension": "E_I",
+      "text": "My ideal work environment is...",
+      "type": "work_style",
+      "priority": 3,
+      "reverse_coded": false,
+      "options": [
+        {"text": "Open, collaborative, and bustling", "value": 5},
+        {"text": "Mostly collaborative", "value": 4},
+        {"text": "Balanced", "value": 3},
+        {"text": "Mostly quiet", "value": 2},
+        {"text": "Quiet and private", "value": 1}
+      ]
+    },
+    {
+      "id": "E_I_021",
+      "dimension": "E_I",
+      "text": "When I need to make a decision, I...",
+      "type": "decision_making",
+      "priority": 3,
+      "reverse_coded": false,
+      "options": [
+        {"text": "Immediately seek others' input", "value": 5},
+        {"text": "Often consult others", "value": 4},
+        {"text": "Sometimes seek advice", "value": 3},
+        {"text": "Mostly decide alone", "value": 2},
+        {"text": "Prefer to think it through alone", "value": 1}
+      ]
+    },
+    {
+      "id": "E_I_022",
+      "dimension": "E_I",
+      "text": "Social media and networking feel...",
+      "type": "modern_life",
+      "priority": 3,
+      "reverse_coded": false,
+      "options": [
+        {"text": "Natural and enjoyable to me", "value": 5},
+        {"text": "Generally comfortable", "value": 4},
+        {"text": "Neither good nor bad", "value": 3},
+        {"text": "Sometimes draining", "value": 2},
+        {"text": "Exhausting and overwhelming", "value": 1}
+      ]
+    },
+    {
+      "id": "S_N_001",
+      "dimension": "S_N",
+      "text": "When learning something new, I prefer...",
+      "type": "learning",
+      "priority": 1,
+      "reverse_coded": false,
+      "options": [
+        {"text": "Concrete examples and hands-on practice", "value": 5},
+        {"text": "Mostly practical applications", "value": 4},
+        {"text": "A mix of theory and practice", "value": 3},
+        {"text": "Some theoretical background", "value": 2},
+        {"text": "Understanding the theory and concepts first", "value": 1}
+      ]
+    },
+    {
+      "id": "S_N_002",
+      "dimension": "S_N",
+      "text": "I trust information that is...",
+      "type": "cognitive",
+      "priority": 1,
+      "reverse_coded": false,
+      "options": [
+        {"text": "Factual and proven", "value": 5},
+        {"text": "Mostly concrete", "value": 4},
+        {"text": "Both factual and theoretical", "value": 3},
+        {"text": "Sometimes conceptual", "value": 2},
+        {"text": "Innovative and theoretical", "value": 1}
+      ]
+    },
+    {
+      "id": "S_N_003",
+      "dimension": "S_N",
+      "text": "When solving problems, I focus on...",
+      "type": "problem_solving",
+      "priority": 1,
+      "reverse_coded": false,
+      "options": [
+        {"text": "What has worked before", "value": 5},
+        {"text": "Proven methods", "value": 4},
+        {"text": "Both proven and new methods", "value": 3},
+        {"text": "Some new approaches", "value": 2},
+        {"text": "New possibilities and innovations", "value": 1}
+      ]
+    },
+    {
+      "id": "S_N_004",
+      "dimension": "S_N",
+      "text": "When exploring topics, I am more interested in...",
+      "type": "interest",
+      "priority": 2,
+      "reverse_coded": true,
+      "options": [
+        {"text": "Future possibilities", "value": 5},
+        {"text": "What could be", "value": 4},
+        {"text": "Both present and future", "value": 3},
+        {"text": "Current realities", "value": 2},
+        {"text": "What is happening now", "value": 1}
+      ]
+    },
+    {
+      "id": "S_N_005",
+      "dimension": "S_N",
+      "text": "In conversations, I tend to...",
+      "type": "communication",
+      "priority": 1,
+      "reverse_coded": false,
+      "options": [
+        {"text": "Focus on specific details and facts", "value": 5},
+        {"text": "Emphasize concrete information", "value": 4},
+        {"text": "Balance details and concepts", "value": 3},
+        {"text": "Include some abstract ideas", "value": 2},
+        {"text": "Discuss abstract concepts and theories", "value": 1}
+      ]
+    },
+    {
+      "id": "S_N_006",
+      "dimension": "S_N",
+      "text": "I prefer instructions that are...",
+      "type": "preference",
+      "priority": 3,
+      "reverse_coded": false,
+      "options": [
+        {"text": "Step-by-step and detailed", "value": 5},
+        {"text": "Mostly specific", "value": 4},
+        {"text": "Moderately detailed", "value": 3},
+        {"text": "Somewhat flexible", "value": 2},
+        {"text": "General guidelines to interpret", "value": 1}
+      ]
+    },
+    {
+      "id": "S_N_007",
+      "dimension": "S_N",
+      "text": "When reading, I prefer...",
+      "type": "preference",
+      "priority": 2,
+      "reverse_coded": true,
+      "options": [
+        {"text": "Fiction and imaginative stories", "value": 5},
+        {"text": "Mostly fiction", "value": 4},
+        {"text": "Both fiction and non-fiction", "value": 3},
+        {"text": "Mostly non-fiction", "value": 2},
+        {"text": "Factual and practical content", "value": 1}
+      ]
+    },
+    {
+      "id": "S_N_008",
+      "dimension": "S_N",
+      "text": "I notice and remember...",
+      "type": "perception",
+      "priority": 3,
+      "reverse_coded": false,
+      "options": [
+        {"text": "Specific details and facts", "value": 5},
+        {"text": "Most details", "value": 4},
+        {"text": "Some details, some patterns", "value": 3},
+        {"text": "General patterns", "value": 2},
+        {"text": "Overall patterns and meanings", "value": 1}
+      ]
+    },
+    {
+      "id": "S_N_009",
+      "dimension": "S_N",
+      "text": "In my work and life, I value...",
+      "type": "values",
+      "priority": 3,
+      "reverse_coded": false,
+      "options": [
+        {"text": "Practical experience", "value": 5},
+        {"text": "Hands-on knowledge", "value": 4},
+        {"text": "Both experience and vision", "value": 3},
+        {"text": "Some innovation", "value": 2},
+        {"text": "Imagination and innovation", "value": 1}
+      ]
+    },
+    {
+      "id": "S_N_010",
+      "dimension": "S_N",
+      "text": "When planning a trip, I focus on...",
+      "type": "planning",
+      "priority": 2,
+      "reverse_coded": false,
+      "options": [
+        {"text": "Specific itineraries and reservations", "value": 5},
+        {"text": "Detailed plans", "value": 4},
+        {"text": "Some planning, some spontaneity", "value": 3},
+        {"text": "General ideas", "value": 2},
+        {"text": "The overall experience and possibilities", "value": 1}
+      ]
+    },
+    {
+      "id": "S_N_011",
+      "dimension": "S_N",
+      "text": "I prefer work that involves...",
+      "type": "work_style",
+      "priority": 3,
+      "reverse_coded": false,
+      "options": [
+        {"text": "Tangible, measurable results", "value": 5},
+        {"text": "Concrete outcomes", "value": 4},
+        {"text": "Mixed outcomes", "value": 3},
+        {"text": "Some conceptual work", "value": 2},
+        {"text": "Abstract ideas and concepts", "value": 1}
+      ]
+    },
+    {
+      "id": "S_N_012",
+      "dimension": "S_N",
+      "text": "I am more comfortable with...",
+      "type": "comfort",
+      "priority": 3,
+      "reverse_coded": false,
+      "options": [
+        {"text": "Established methods", "value": 5},
+        {"text": "Proven approaches", "value": 4},
+        {"text": "Both old and new", "value": 3},
+        {"text": "Some experimentation", "value": 2},
+        {"text": "Experimental approaches", "value": 1}
+      ]
+    },
+    {
+      "id": "S_N_013",
+      "dimension": "S_N",
+      "text": "In discussions, I prefer to talk about...",
+      "type": "communication",
+      "priority": 2,
+      "reverse_coded": false,
+      "options": [
+        {"text": "Real events and experiences", "value": 5},
+        {"text": "Concrete topics", "value": 4},
+        {"text": "Various topics", "value": 3},
+        {"text": "Some hypotheticals", "value": 2},
+        {"text": "Hypothetical scenarios", "value": 1}
+      ]
+    },
+    {
+      "id": "S_N_014",
+      "dimension": "S_N",
+      "text": "I learn best from...",
+      "type": "learning",
+      "priority": 3,
+      "reverse_coded": false,
+      "options": [
+        {"text": "Direct experience", "value": 5},
+        {"text": "Hands-on practice", "value": 4},
+        {"text": "Mixed methods", "value": 3},
+        {"text": "Some theory", "value": 2},
+        {"text": "Theoretical frameworks", "value": 1}
+      ]
+    },
+    {
+      "id": "S_N_015",
+      "dimension": "S_N",
+      "text": "I tend to focus on...",
+      "type": "focus",
+      "priority": 2,
+      "reverse_coded": true,
+      "options": [
+        {"text": "The big picture", "value": 5},
+        {"text": "Overall patterns", "value": 4},
+        {"text": "Both details and patterns", "value": 3},
+        {"text": "Important details", "value": 2},
+        {"text": "Specific details", "value": 1}
+      ]
+    },
+    {
+      "id": "S_N_016",
+      "dimension": "S_N",
+      "text": "I prefer explanations that are...",
+      "type": "preference",
+      "priority": 3,
+      "reverse_coded": false,
+      "options": [
+        {"text": "Literal and straightforward", "value": 5},
+        {"text": "Clear and direct", "value": 4},
+        {"text": "Balanced", "value": 3},
+        {"text": "Sometimes metaphorical", "value": 2},
+        {"text": "Metaphorical and symbolic", "value": 1}
+      ]
+    },
+    {
+      "id": "S_N_017",
+      "dimension": "S_N",
+      "text": "Change and innovation feel...",
+      "type": "attitude",
+      "priority": 3,
+      "reverse_coded": true,
+      "options": [
+        {"text": "Exciting and energizing", "value": 5},
+        {"text": "Generally positive", "value": 4},
+        {"text": "Neither good nor bad", "value": 3},
+        {"text": "Sometimes uncomfortable", "value": 2},
+        {"text": "Uncomfortable and risky", "value": 1}
+      ]
+    },
+    {
+      "id": "S_N_018",
+      "dimension": "S_N",
+      "text": "I prefer to work with...",
+      "type": "work_style",
+      "priority": 2,
+      "reverse_coded": false,
+      "options": [
+        {"text": "Facts and data", "value": 5},
+        {"text": "Concrete information", "value": 4},
+        {"text": "Both facts and ideas", "value": 3},
+        {"text": "Some concepts", "value": 2},
+        {"text": "Ideas and possibilities", "value": 1}
+      ]
+    },
+    {
+      "id": "S_N_019",
+      "dimension": "S_N",
+      "text": "I am drawn to...",
+      "type": "interest",
+      "priority": 3,
+      "reverse_coded": true,
+      "options": [
+        {"text": "Novel and untested ideas", "value": 5},
+        {"text": "Innovation", "value": 4},
+        {"text": "Both new and proven", "value": 3},
+        {"text": "Some tradition", "value": 2},
+        {"text": "Time-tested methods", "value": 1}
+      ]
+    },
+    {
+      "id": "S_N_020",
+      "dimension": "S_N",
+      "text": "My memory is best for...",
+      "type": "cognitive",
+      "priority": 3,
+      "reverse_coded": false,
+      "options": [
+        {"text": "Specific facts and details", "value": 5},
+        {"text": "Concrete information", "value": 4},
+        {"text": "Various types", "value": 3},
+        {"text": "General concepts", "value": 2},
+        {"text": "Overall impressions and meanings", "value": 1}
+      ]
+    },
+    {
+      "id": "S_N_021",
+      "dimension": "S_N",
+      "text": "I think in terms of...",
+      "type": "cognitive",
+      "priority": 3,
+      "reverse_coded": true,
+      "options": [
+        {"text": "What could be", "value": 5},
+        {"text": "Possibilities", "value": 4},
+        {"text": "Both present and future", "value": 3},
+        {"text": "Current situation", "value": 2},
+        {"text": "What is", "value": 1}
+      ]
+    },
+    {
+      "id": "S_N_022",
+      "dimension": "S_N",
+      "text": "I prefer projects that...",
+      "type": "work_style",
+      "priority": 3,
+      "reverse_coded": false,
+      "options": [
+        {"text": "Have clear, practical applications", "value": 5},
+        {"text": "Are mostly practical", "value": 4},
+        {"text": "Balance practical and theoretical", "value": 3},
+        {"text": "Include some innovation", "value": 2},
+        {"text": "Explore new concepts", "value": 1}
+      ]
+    },
+    {
+      "id": "T_F_001",
+      "dimension": "T_F",
+      "text": "When making decisions, I prioritize...",
+      "type": "decision_making",
+      "priority": 1,
+      "reverse_coded": false,
+      "options": [
+        {"text": "Logic and objective analysis", "value": 5},
+        {"text": "Mostly logic", "value": 4},
+        {"text": "Both logic and feelings", "value": 3},
+        {"text": "Consider feelings", "value": 2},
+        {"text": "Personal values and feelings", "value": 1}
+      ]
+    },
+    {
+      "id": "T_F_002",
+      "dimension": "T_F",
+      "text": "In conflicts, I tend to...",
+      "type": "conflict",
+      "priority": 1,
+      "reverse_coded": false,
+      "options": [
+        {"text": "Focus on facts and fairness", "value": 5},
+        {"text": "Emphasize objectivity", "value": 4},
+        {"text": "Balance facts and feelings", "value": 3},
+        {"text": "Consider emotions", "value": 2},
+        {"text": "Focus on harmony and feelings", "value": 1}
+      ]
+    },
+    {
+      "id": "T_F_003",
+      "dimension": "T_F",
+      "text": "I am more convinced by...",
+      "type": "persuasion",
+      "priority": 1,
+      "reverse_coded": false,
+      "options": [
+        {"text": "Logical arguments", "value": 5},
+        {"text": "Rational reasoning", "value": 4},
+        {"text": "Both logic and emotion", "value": 3},
+        {"text": "Some emotional appeal", "value": 2},
+        {"text": "Heartfelt appeals", "value": 1}
+      ]
+    },
+    {
+      "id": "T_F_004",
+      "dimension": "T_F",
+      "text": "People would describe me as more...",
+      "type": "social_perception",
+      "priority": 2,
+      "reverse_coded": true,
+      "options": [
+        {"text": "Warm and empathetic", "value": 5},
+        {"text": "Generally caring", "value": 4},
+        {"text": "Balanced", "value": 3},
+        {"text": "Somewhat analytical", "value": 2},
+        {"text": "Logical and analytical", "value": 1}
+      ]
+    },
+    {
+      "id": "T_F_005",
+      "dimension": "T_F",
+      "text": "When giving feedback, I focus on...",
+      "type": "communication",
+      "priority": 1,
+      "reverse_coded": false,
+      "options": [
+        {"text": "Objective improvements needed", "value": 5},
+        {"text": "Constructive criticism", "value": 4},
+        {"text": "Balance criticism and encouragement", "value": 3},
+        {"text": "Some encouragement", "value": 2},
+        {"text": "Encouragement and support", "value": 1}
+      ]
+    },
+    {
+      "id": "T_F_006",
+      "dimension": "T_F",
+      "text": "In communication, I value...",
+      "type": "values",
+      "priority": 3,
+      "reverse_coded": false,
+      "options": [
+        {"text": "Truth over tact", "value": 5},
+        {"text": "Honesty", "value": 4},
+        {"text": "Both truth and tact", "value": 3},
+        {"text": "Consideration", "value": 2},
+        {"text": "Tact over truth", "value": 1}
+      ]
+    },
+    {
+      "id": "T_F_007",
+      "dimension": "T_F",
+      "text": "In group decisions, I advocate for...",
+      "type": "group_dynamics",
+      "priority": 2,
+      "reverse_coded": false,
+      "options": [
+        {"text": "The most logical solution", "value": 5},
+        {"text": "Objective outcomes", "value": 4},
+        {"text": "Balanced solutions", "value": 3},
+        {"text": "Some consensus", "value": 2},
+        {"text": "Group harmony and consensus", "value": 1}
+      ]
+    },
+    {
+      "id": "T_F_008",
+      "dimension": "T_F",
+      "text": "When learning, I am more interested in...",
+      "type": "interest",
+      "priority": 3,
+      "reverse_coded": false,
+      "options": [
+        {"text": "How things work", "value": 5},
+        {"text": "Systems and mechanisms", "value": 4},
+        {"text": "Both systems and people", "value": 3},
+        {"text": "People's experiences", "value": 2},
+        {"text": "How people feel", "value": 1}
+      ]
+    },
+    {
+      "id": "T_F_009",
+      "dimension": "T_F",
+      "text": "When someone is upset, I first...",
+      "type": "emotional_response",
+      "priority": 3,
+      "reverse_coded": true,
+      "options": [
+        {"text": "Offer emotional support", "value": 5},
+        {"text": "Show empathy", "value": 4},
+        {"text": "Balance support and solutions", "value": 3},
+        {"text": "Suggest some solutions", "value": 2},
+        {"text": "Try to solve their problem", "value": 1}
+      ]
+    },
+    {
+      "id": "T_F_010",
+      "dimension": "T_F",
+      "text": "I prefer discussions that are...",
+      "type": "communication",
+      "priority": 2,
+      "reverse_coded": false,
+      "options": [
+        {"text": "Intellectually rigorous", "value": 5},
+        {"text": "Analytical", "value": 4},
+        {"text": "Balanced", "value": 3},
+        {"text": "Somewhat personal", "value": 2},
+        {"text": "Personal and emotional", "value": 1}
+      ]
+    },
+    {
+      "id": "T_F_011",
+      "dimension": "T_F",
+      "text": "My ideal boss would be...",
+      "type": "work_style",
+      "priority": 3,
+      "reverse_coded": true,
+      "options": [
+        {"text": "Supportive and understanding", "value": 5},
+        {"text": "Generally caring", "value": 4},
+        {"text": "Balanced", "value": 3},
+        {"text": "Somewhat objective", "value": 2},
+        {"text": "Fair and objective", "value": 1}
+      ]
+    },
+    {
+      "id": "T_F_012",
+      "dimension": "T_F",
+      "text": "I make better decisions when I...",
+      "type": "decision_making",
+      "priority": 3,
+      "reverse_coded": false,
+      "options": [
+        {"text": "Remove emotions from the equation", "value": 5},
+        {"text": "Focus on facts", "value": 4},
+        {"text": "Consider both", "value": 3},
+        {"text": "Include feelings", "value": 2},
+        {"text": "Trust my feelings", "value": 1}
+      ]
+    },
+    {
+      "id": "T_F_013",
+      "dimension": "T_F",
+      "text": "Criticism affects me...",
+      "type": "emotional_response",
+      "priority": 2,
+      "reverse_coded": true,
+      "options": [
+        {"text": "Very personally", "value": 5},
+        {"text": "Quite personally", "value": 4},
+        {"text": "Moderately", "value": 3},
+        {"text": "Not much", "value": 2},
+        {"text": "I see it as data", "value": 1}
+      ]
+    },
+    {
+      "id": "T_F_014",
+      "dimension": "T_F",
+      "text": "I prefer to be seen as...",
+      "type": "self_image",
+      "priority": 3,
+      "reverse_coded": false,
+      "options": [
+        {"text": "Competent and logical", "value": 5},
+        {"text": "Capable", "value": 4},
+        {"text": "Well-rounded", "value": 3},
+        {"text": "Understanding", "value": 2},
+        {"text": "Caring and compassionate", "value": 1}
+      ]
+    },
+    {
+      "id": "T_F_015",
+      "dimension": "T_F",
+      "text": "In relationships, I express care by...",
+      "type": "relationships",
+      "priority": 2,
+      "reverse_coded": true,
+      "options": [
+        {"text": "Emotional support and affection", "value": 5},
+        {"text": "Being emotionally available", "value": 4},
+        {"text": "Various ways", "value": 3},
+        {"text": "Some practical help", "value": 2},
+        {"text": "Solving problems and giving advice", "value": 1}
+      ]
+    },
+    {
+      "id": "T_F_016",
+      "dimension": "T_F",
+      "text": "I trust decisions based on...",
+      "type": "decision_making",
+      "priority": 3,
+      "reverse_coded": false,
+      "options": [
+        {"text": "Analysis and data", "value": 5},
+        {"text": "Research", "value": 4},
+        {"text": "Both data and intuition", "value": 3},
+        {"text": "Some intuition", "value": 2},
+        {"text": "Gut feelings", "value": 1}
+      ]
+    },
+    {
+      "id": "T_F_017",
+      "dimension": "T_F",
+      "text": "When evaluating ideas, I focus on...",
+      "type": "evaluation",
+      "priority": 3,
+      "reverse_coded": false,
+      "options": [
+        {"text": "Logical consistency", "value": 5},
+        {"text": "Rational merit", "value": 4},
+        {"text": "Multiple factors", "value": 3},
+        {"text": "Impact on people", "value": 2},
+        {"text": "How it affects people", "value": 1}
+      ]
+    },
+    {
+      "id": "T_F_018",
+      "dimension": "T_F",
+      "text": "I appreciate people who are...",
+      "type": "values",
+      "priority": 2,
+      "reverse_coded": false,
+      "options": [
+        {"text": "Direct and straightforward", "value": 5},
+        {"text": "Clear communicators", "value": 4},
+        {"text": "Balanced", "value": 3},
+        {"text": "Considerate", "value": 2},
+        {"text": "Tactful and diplomatic", "value": 1}
+      ]
+    },
+    {
+      "id": "T_F_019",
+      "dimension": "T_F",
+      "text": "Justice means...",
+      "type": "values",
+      "priority": 3,
+      "reverse_coded": false,
+      "options": [
+        {"text": "Equal treatment for all", "value": 5},
+        {"text": "Fairness", "value": 4},
+        {"text": "Both fairness and mercy", "value": 3},
+        {"text": "Some consideration", "value": 2},
+        {"text": "Mercy and understanding", "value": 1}
+      ]
+    },
+    {
+      "id": "T_F_020",
+      "dimension": "T_F",
+      "text": "I find it easier to...",
+      "type": "comfort",
+      "priority": 3,
+      "reverse_coded": false,
+      "options": [
+        {"text": "Be objective and impartial", "value": 5},
+        {"text": "Stay neutral", "value": 4},
+        {"text": "Both are equal", "value": 3},
+        {"text": "Show some emotion", "value": 2},
+        {"text": "Be sympathetic and personal", "value": 1}
+      ]
+    },
+    {
+      "id": "T_F_021",
+      "dimension": "T_F",
+      "text": "Strong emotions in others make me...",
+      "type": "emotional_response",
+      "priority": 3,
+      "reverse_coded": true,
+      "options": [
+        {"text": "Feel their emotions deeply", "value": 5},
+        {"text": "Quite affected", "value": 4},
+        {"text": "Somewhat affected", "value": 3},
+        {"text": "Slightly uncomfortable", "value": 2},
+        {"text": "Want to help them think clearly", "value": 1}
+      ]
+    },
+    {
+      "id": "T_F_022",
+      "dimension": "T_F",
+      "text": "Success means...",
+      "type": "values",
+      "priority": 3,
+      "reverse_coded": false,
+      "options": [
+        {"text": "Achieving measurable goals", "value": 5},
+        {"text": "Meeting objectives", "value": 4},
+        {"text": "Both achievement and fulfillment", "value": 3},
+        {"text": "Personal satisfaction", "value": 2},
+        {"text": "Making a positive impact on others", "value": 1}
+      ]
+    },
+    {
+      "id": "J_P_001",
+      "dimension": "J_P",
+      "text": "I prefer my daily life to be...",
+      "type": "lifestyle",
+      "priority": 1,
+      "reverse_coded": false,
+      "options": [
+        {"text": "Planned and organized", "value": 5},
+        {"text": "Mostly structured", "value": 4},
+        {"text": "Somewhat structured", "value": 3},
+        {"text": "Fairly flexible", "value": 2},
+        {"text": "Spontaneous and flexible", "value": 1}
+      ]
+    },
+    {
+      "id": "J_P_002",
+      "dimension": "J_P",
+      "text": "Deadlines make me feel...",
+      "type": "work_style",
+      "priority": 1,
+      "reverse_coded": false,
+      "options": [
+        {"text": "Motivated and focused", "value": 5},
+        {"text": "Generally productive", "value": 4},
+        {"text": "Neither good nor bad", "value": 3},
+        {"text": "Somewhat pressured", "value": 2},
+        {"text": "Stressed and constrained", "value": 1}
+      ]
+    },
+    {
+      "id": "J_P_003",
+      "dimension": "J_P",
+      "text": "When planning a trip, I...",
+      "type": "planning",
+      "priority": 1,
+      "reverse_coded": false,
+      "options": [
+        {"text": "Plan every detail in advance", "value": 5},
+        {"text": "Plan most things", "value": 4},
+        {"text": "Plan some, leave some open", "value": 3},
+        {"text": "Keep it mostly flexible", "value": 2},
+        {"text": "Prefer to be spontaneous", "value": 1}
+      ]
+    },
+    {
+      "id": "J_P_004",
+      "dimension": "J_P",
+      "text": "I work best when...",
+      "type": "work_style",
+      "priority": 2,
+      "reverse_coded": true,
+      "options": [
+        {"text": "I can adapt as I go", "value": 5},
+        {"text": "Things are flexible", "value": 4},
+        {"text": "There's some structure", "value": 3},
+        {"text": "Most things are planned", "value": 2},
+        {"text": "Everything is scheduled", "value": 1}
+      ]
+    },
+    {
+      "id": "J_P_005",
+      "dimension": "J_P",
+      "text": "Unfinished tasks make me feel...",
+      "type": "emotional",
+      "priority": 1,
+      "reverse_coded": false,
+      "options": [
+        {"text": "Very uncomfortable", "value": 5},
+        {"text": "Somewhat bothered", "value": 4},
+        {"text": "Neutral", "value": 3},
+        {"text": "Not particularly bothered", "value": 2},
+        {"text": "Fine, I'll get to them", "value": 1}
+      ]
+    },
+    {
+      "id": "J_P_006",
+      "dimension": "J_P",
+      "text": "I prefer to make decisions...",
+      "type": "decision_making",
+      "priority": 3,
+      "reverse_coded": false,
+      "options": [
+        {"text": "Quickly and move on", "value": 5},
+        {"text": "Fairly quickly", "value": 4},
+        {"text": "At a moderate pace", "value": 3},
+        {"text": "With some deliberation", "value": 2},
+        {"text": "After exploring all options", "value": 1}
+      ]
+    },
+    {
+      "id": "J_P_007",
+      "dimension": "J_P",
+      "text": "My workspace is usually...",
+      "type": "environment",
+      "priority": 2,
+      "reverse_coded": false,
+      "options": [
+        {"text": "Neat and organized", "value": 5},
+        {"text": "Mostly tidy", "value": 4},
+        {"text": "Varies", "value": 3},
+        {"text": "Somewhat cluttered", "value": 2},
+        {"text": "Creatively chaotic", "value": 1}
+      ]
+    },
+    {
+      "id": "J_P_008",
+      "dimension": "J_P",
+      "text": "Change of plans makes me feel...",
+      "type": "adaptation",
+      "priority": 3,
+      "reverse_coded": true,
+      "options": [
+        {"text": "Excited and energized", "value": 5},
+        {"text": "Generally positive", "value": 4},
+        {"text": "Neutral", "value": 3},
+        {"text": "Slightly annoyed", "value": 2},
+        {"text": "Frustrated and unsettled", "value": 1}
+      ]
+    },
+    {
+      "id": "J_P_009",
+      "dimension": "J_P",
+      "text": "I prefer projects with...",
+      "type": "work_style",
+      "priority": 3,
+      "reverse_coded": false,
+      "options": [
+        {"text": "Clear goals and timelines", "value": 5},
+        {"text": "Defined structure", "value": 4},
+        {"text": "Some structure", "value": 3},
+        {"text": "Flexibility", "value": 2},
+        {"text": "Open-ended exploration", "value": 1}
+      ]
+    },
+    {
+      "id": "J_P_010",
+      "dimension": "J_P",
+      "text": "I like to start projects...",
+      "type": "initiation",
+      "priority": 2,
+      "reverse_coded": false,
+      "options": [
+        {"text": "Well before the deadline", "value": 5},
+        {"text": "With plenty of time", "value": 4},
+        {"text": "With reasonable time", "value": 3},
+        {"text": "When inspired", "value": 2},
+        {"text": "When the pressure motivates me", "value": 1}
+      ]
+    },
+    {
+      "id": "J_P_011",
+      "dimension": "J_P",
+      "text": "Rules and procedures are...",
+      "type": "attitude",
+      "priority": 3,
+      "reverse_coded": false,
+      "options": [
+        {"text": "Essential for order", "value": 5},
+        {"text": "Generally helpful", "value": 4},
+        {"text": "Sometimes useful", "value": 3},
+        {"text": "Often limiting", "value": 2},
+        {"text": "Guidelines to be adapted", "value": 1}
+      ]
+    },
+    {
+      "id": "J_P_012",
+      "dimension": "J_P",
+      "text": "I prefer weekends that are...",
+      "type": "lifestyle",
+      "priority": 3,
+      "reverse_coded": false,
+      "options": [
+        {"text": "Planned with activities", "value": 5},
+        {"text": "Somewhat scheduled", "value": 4},
+        {"text": "Loosely planned", "value": 3},
+        {"text": "Mostly open", "value": 2},
+        {"text": "Completely unplanned", "value": 1}
+      ]
+    },
+    {
+      "id": "J_P_013",
+      "dimension": "J_P",
+      "text": "Making lists and schedules feels...",
+      "type": "organization",
+      "priority": 2,
+      "reverse_coded": false,
+      "options": [
+        {"text": "Natural and satisfying", "value": 5},
+        {"text": "Helpful", "value": 4},
+        {"text": "Sometimes useful", "value": 3},
+        {"text": "A bit constraining", "value": 2},
+        {"text": "Restrictive and boring", "value": 1}
+      ]
+    },
+    {
+      "id": "J_P_014",
+      "dimension": "J_P",
+      "text": "I am more productive when...",
+      "type": "productivity",
+      "priority": 3,
+      "reverse_coded": true,
+      "options": [
+        {"text": "I can work flexibly", "value": 5},
+        {"text": "I have freedom", "value": 4},
+        {"text": "There's balance", "value": 3},
+        {"text": "There's some structure", "value": 2},
+        {"text": "I have a clear plan", "value": 1}
+      ]
+    },
+    {
+      "id": "J_P_015",
+      "dimension": "J_P",
+      "text": "I prefer to keep my options...",
+      "type": "decision_making",
+      "priority": 2,
+      "reverse_coded": true,
+      "options": [
+        {"text": "Open as long as possible", "value": 5},
+        {"text": "Mostly open", "value": 4},
+        {"text": "Somewhat open", "value": 3},
+        {"text": "Fairly decided", "value": 2},
+        {"text": "Decided and settled", "value": 1}
+      ]
+    },
+    {
+      "id": "J_P_016",
+      "dimension": "J_P",
+      "text": "Routine in my life is...",
+      "type": "lifestyle",
+      "priority": 3,
+      "reverse_coded": false,
+      "options": [
+        {"text": "Comforting and necessary", "value": 5},
+        {"text": "Generally helpful", "value": 4},
+        {"text": "Sometimes good", "value": 3},
+        {"text": "Often boring", "value": 2},
+        {"text": "Stifling and dull", "value": 1}
+      ]
+    },
+    {
+      "id": "J_P_017",
+      "dimension": "J_P",
+      "text": "I feel best when things are...",
+      "type": "comfort",
+      "priority": 3,
+      "reverse_coded": false,
+      "options": [
+        {"text": "Settled and decided", "value": 5},
+        {"text": "Mostly resolved", "value": 4},
+        {"text": "Partially settled", "value": 3},
+        {"text": "Somewhat flexible", "value": 2},
+        {"text": "Open and flexible", "value": 1}
+      ]
+    },
+    {
+      "id": "J_P_018",
+      "dimension": "J_P",
+      "text": "Multiple ongoing projects make me feel...",
+      "type": "work_style",
+      "priority": 2,
+      "reverse_coded": true,
+      "options": [
+        {"text": "Stimulated and engaged", "value": 5},
+        {"text": "Energized", "value": 4},
+        {"text": "Fine", "value": 3},
+        {"text": "Slightly scattered", "value": 2},
+        {"text": "Overwhelmed and unfocused", "value": 1}
+      ]
+    },
+    {
+      "id": "J_P_019",
+      "dimension": "J_P",
+      "text": "I prefer to complete tasks...",
+      "type": "completion",
+      "priority": 3,
+      "reverse_coded": false,
+      "options": [
+        {"text": "One at a time, fully", "value": 5},
+        {"text": "Mostly sequentially", "value": 4},
+        {"text": "In various ways", "value": 3},
+        {"text": "Jumping between them", "value": 2},
+        {"text": "In whatever order feels right", "value": 1}
+      ]
+    },
+    {
+      "id": "J_P_020",
+      "dimension": "J_P",
+      "text": "Surprises are...",
+      "type": "attitude",
+      "priority": 3,
+      "reverse_coded": true,
+      "options": [
+        {"text": "Exciting and welcome", "value": 5},
+        {"text": "Often fun", "value": 4},
+        {"text": "Sometimes nice", "value": 3},
+        {"text": "Somewhat unsettling", "value": 2},
+        {"text": "Disruptive and unwelcome", "value": 1}
+      ]
+    },
+    {
+      "id": "J_P_021",
+      "dimension": "J_P",
+      "text": "I approach goals by...",
+      "type": "goal_orientation",
+      "priority": 3,
+      "reverse_coded": false,
+      "options": [
+        {"text": "Setting clear milestones", "value": 5},
+        {"text": "Planning steps", "value": 4},
+        {"text": "Some planning", "value": 3},
+        {"text": "Adapting as I go", "value": 2},
+        {"text": "Seeing where they lead", "value": 1}
+      ]
+    },
+    {
+      "id": "J_P_022",
+      "dimension": "J_P",
+      "text": "The best decisions are made...",
+      "type": "decision_making",
+      "priority": 3,
+      "reverse_coded": true,
+      "options": [
+        {"text": "After gathering all information", "value": 5},
+        {"text": "With thorough research", "value": 4},
+        {"text": "With reasonable information", "value": 3},
+        {"text": "Fairly quickly", "value": 2},
+        {"text": "Quickly to maintain momentum", "value": 1}
+      ]
+    }
+  ]
+}

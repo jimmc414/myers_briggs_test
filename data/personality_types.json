@@ -1,0 +1,578 @@
+{
+  "INTJ": {
+    "title": "The Architect",
+    "overview": "Independent, strategic, and determined innovators with a natural ability to turn theories into solid plans of action. INTJs value knowledge, competence, and structure, driven to understand how things work and to improve systems.",
+    "strengths": [
+      "Strategic thinking and long-term planning",
+      "Independent and self-confident",
+      "Decisive and determined",
+      "Innovative problem-solving",
+      "High standards and commitment to improvement"
+    ],
+    "weaknesses": [
+      "Can be overly critical and dismissive",
+      "May struggle with emotional expression",
+      "Perfectionist tendencies can lead to frustration",
+      "Can appear arrogant or insensitive",
+      "Difficulty with routine tasks"
+    ],
+    "career_matches": [
+      "Software Developer/Architect",
+      "Data Scientist",
+      "Strategic Planner",
+      "System Analyst",
+      "Research Scientist",
+      "Investment Banker",
+      "Engineer",
+      "University Professor"
+    ],
+    "cognitive_stack": {
+      "dominant": "Ni (Introverted Intuition) - Sees patterns and future implications",
+      "auxiliary": "Te (Extraverted Thinking) - Organizes the external world logically",
+      "tertiary": "Fi (Introverted Feeling) - Internal value system",
+      "inferior": "Se (Extraverted Sensing) - Awareness of present moment"
+    },
+    "famous_examples": ["Elon Musk", "Isaac Newton", "Friedrich Nietzsche", "Mark Zuckerberg"],
+    "relationship_style": "INTJs approach relationships with the same strategic thinking they apply elsewhere. They seek intellectual equals and value deep, meaningful connections over superficial interactions."
+  },
+  "INTP": {
+    "title": "The Thinker",
+    "overview": "Philosophical innovators fascinated by logical analysis, systems, and design. INTPs are preoccupied with theory and search for the universal law behind everything they see. They want to understand the unifying themes of life.",
+    "strengths": [
+      "Analytical and objective",
+      "Abstract thinking and pattern recognition",
+      "Creative and original",
+      "Open-minded and curious",
+      "Independent and adaptable"
+    ],
+    "weaknesses": [
+      "Can be insensitive to others' feelings",
+      "Absent-minded and disorganized",
+      "Condescending when others don't understand",
+      "Struggle with practical matters",
+      "Difficulty expressing emotions"
+    ],
+    "career_matches": [
+      "Software Developer",
+      "Mathematician",
+      "Technical Writer",
+      "Systems Analyst",
+      "Philosopher",
+      "Research Scientist",
+      "Computer Programmer",
+      "Data Analyst"
+    ],
+    "cognitive_stack": {
+      "dominant": "Ti (Introverted Thinking) - Internal logical framework",
+      "auxiliary": "Ne (Extraverted Intuition) - Explores possibilities",
+      "tertiary": "Si (Introverted Sensing) - Recalls past experiences",
+      "inferior": "Fe (Extraverted Feeling) - Considers group harmony"
+    },
+    "famous_examples": ["Albert Einstein", "Bill Gates", "Marie Curie", "Charles Darwin"],
+    "relationship_style": "INTPs value intellectual connection above all. They need partners who can engage in deep philosophical discussions and respect their need for independence and mental space."
+  },
+  "ENTJ": {
+    "title": "The Commander",
+    "overview": "Bold, imaginative, and strong-willed leaders who always find a way or make one. ENTJs are natural-born leaders with charisma and confidence, projecting authority in a way that draws crowds together behind a common goal.",
+    "strengths": [
+      "Natural leadership abilities",
+      "Strategic and efficient",
+      "Confident and charismatic",
+      "Strong-willed and determined",
+      "Excellent at long-term planning"
+    ],
+    "weaknesses": [
+      "Can be stubborn and domineering",
+      "Intolerant of inefficiency",
+      "Impatient with emotions",
+      "May be insensitive",
+      "Can be overly critical"
+    ],
+    "career_matches": [
+      "CEO/Executive",
+      "Entrepreneur",
+      "Management Consultant",
+      "Investment Banker",
+      "Lawyer",
+      "Business Strategist",
+      "University Administrator",
+      "Military Officer"
+    ],
+    "cognitive_stack": {
+      "dominant": "Te (Extraverted Thinking) - Organizes external world efficiently",
+      "auxiliary": "Ni (Introverted Intuition) - Sees future patterns",
+      "tertiary": "Se (Extraverted Sensing) - Engages with present reality",
+      "inferior": "Fi (Introverted Feeling) - Personal values and emotions"
+    },
+    "famous_examples": ["Steve Jobs", "Margaret Thatcher", "Napoleon Bonaparte", "Gordon Ramsay"],
+    "relationship_style": "ENTJs seek partners who are independent, intelligent, and growth-oriented. They value honesty and direct communication, expecting their partners to challenge them intellectually."
+  },
+  "ENTP": {
+    "title": "The Debater",
+    "overview": "Smart and curious thinkers who cannot resist an intellectual challenge. ENTPs are inspired innovators, motivated to find new solutions to intellectually challenging problems. They are curious and clever.",
+    "strengths": [
+      "Quick thinking and adaptable",
+      "Creative and innovative",
+      "Excellent debaters",
+      "Charismatic and energetic",
+      "Knowledge-seeking"
+    ],
+    "weaknesses": [
+      "Can be argumentative",
+      "Insensitive to others' feelings",
+      "Difficulty with routine tasks",
+      "May not follow through",
+      "Can be seen as unreliable"
+    ],
+    "career_matches": [
+      "Entrepreneur",
+      "Lawyer",
+      "Management Consultant",
+      "Marketing Director",
+      "Business Developer",
+      "Political Analyst",
+      "Systems Analyst",
+      "Venture Capitalist"
+    ],
+    "cognitive_stack": {
+      "dominant": "Ne (Extraverted Intuition) - Explores possibilities",
+      "auxiliary": "Ti (Introverted Thinking) - Analyzes logically",
+      "tertiary": "Fe (Extraverted Feeling) - Considers social dynamics",
+      "inferior": "Si (Introverted Sensing) - Remembers details"
+    },
+    "famous_examples": ["Mark Twain", "Thomas Edison", "Tom Hanks", "Sacha Baron Cohen"],
+    "relationship_style": "ENTPs need intellectual stimulation and enjoy partners who can engage in witty banter and philosophical debates. They value independence and mental agility in relationships."
+  },
+  "INFJ": {
+    "title": "The Advocate",
+    "overview": "Quiet and mystical, yet very inspiring and tireless idealists. INFJs are creative nurturers with a strong sense of personal integrity and a drive to help others realize their potential.",
+    "strengths": [
+      "Insightful and intuitive",
+      "Committed to their values",
+      "Creative and dedicated",
+      "Inspiring and convincing",
+      "Decisive and determined"
+    ],
+    "weaknesses": [
+      "Overly sensitive",
+      "Perfectionist tendencies",
+      "Extremely private",
+      "Can burn out easily",
+      "Prone to overthinking"
+    ],
+    "career_matches": [
+      "Counselor/Psychologist",
+      "Writer/Author",
+      "Human Resources Manager",
+      "Teacher/Professor",
+      "Social Worker",
+      "Nonprofit Director",
+      "Healthcare Worker",
+      "Life Coach"
+    ],
+    "cognitive_stack": {
+      "dominant": "Ni (Introverted Intuition) - Sees patterns and meanings",
+      "auxiliary": "Fe (Extraverted Feeling) - Harmonizes with others",
+      "tertiary": "Ti (Introverted Thinking) - Analyzes information",
+      "inferior": "Se (Extraverted Sensing) - Experiences the present"
+    },
+    "famous_examples": ["Martin Luther King Jr.", "Mother Teresa", "Nelson Mandela", "Oprah Winfrey"],
+    "relationship_style": "INFJs seek deep, meaningful connections and are highly selective about their partners. They need emotional intimacy and value authenticity above all else."
+  },
+  "INFP": {
+    "title": "The Mediator",
+    "overview": "Poetic, kind, and altruistic people, always eager to help a good cause. INFPs are imaginative idealists guided by their own core values and beliefs. They see potential for a better future.",
+    "strengths": [
+      "Idealistic and empathetic",
+      "Creative and imaginative",
+      "Passionate about values",
+      "Open-minded and flexible",
+      "Dedicated to personal growth"
+    ],
+    "weaknesses": [
+      "Too idealistic",
+      "Can be overly emotional",
+      "Difficult to get to know",
+      "Takes things personally",
+      "Impractical"
+    ],
+    "career_matches": [
+      "Writer/Poet",
+      "Graphic Designer",
+      "Psychologist",
+      "Social Worker",
+      "Teacher",
+      "Artist/Musician",
+      "Human Rights Advocate",
+      "Librarian"
+    ],
+    "cognitive_stack": {
+      "dominant": "Fi (Introverted Feeling) - Deep personal values",
+      "auxiliary": "Ne (Extraverted Intuition) - Explores possibilities",
+      "tertiary": "Si (Introverted Sensing) - Recalls meaningful memories",
+      "inferior": "Te (Extraverted Thinking) - Organizes external world"
+    },
+    "famous_examples": ["William Shakespeare", "J.R.R. Tolkien", "Johnny Depp", "Princess Diana"],
+    "relationship_style": "INFPs are deeply romantic and seek soulmate connections. They need partners who appreciate their depth, support their dreams, and share their values."
+  },
+  "ENFJ": {
+    "title": "The Protagonist",
+    "overview": "Charismatic and inspiring leaders, able to mesmerize their listeners. ENFJs are idealist organizers driven to implement their vision of what is best for humanity. They act as catalysts for human growth.",
+    "strengths": [
+      "Natural leaders",
+      "Altruistic and empathetic",
+      "Charismatic and inspiring",
+      "Organized and reliable",
+      "Excellent communicators"
+    ],
+    "weaknesses": [
+      "Overly idealistic",
+      "Too selfless",
+      "Overly sensitive to criticism",
+      "Can be manipulative",
+      "Struggle with difficult decisions"
+    ],
+    "career_matches": [
+      "Teacher/Educator",
+      "Human Resources Director",
+      "Sales Manager",
+      "Public Relations Manager",
+      "Life Coach",
+      "Politician",
+      "Social Worker",
+      "Event Coordinator"
+    ],
+    "cognitive_stack": {
+      "dominant": "Fe (Extraverted Feeling) - Harmonizes with others",
+      "auxiliary": "Ni (Introverted Intuition) - Understands underlying patterns",
+      "tertiary": "Se (Extraverted Sensing) - Engages with environment",
+      "inferior": "Ti (Introverted Thinking) - Internal logical analysis"
+    },
+    "famous_examples": ["Barack Obama", "Oprah Winfrey", "Martin Luther King Jr.", "Maya Angelou"],
+    "relationship_style": "ENFJs are devoted partners who prioritize their relationships. They seek harmony and deep emotional connections, often putting their partner's needs first."
+  },
+  "ENFP": {
+    "title": "The Campaigner",
+    "overview": "Enthusiastic, creative, and sociable free spirits who can always find a reason to smile. ENFPs are people-centered creators with a focus on possibilities and a contagious enthusiasm for new ideas.",
+    "strengths": [
+      "Enthusiastic and energetic",
+      "Creative and imaginative",
+      "Excellent communicators",
+      "Highly empathetic",
+      "Adaptable and spontaneous"
+    ],
+    "weaknesses": [
+      "Can be overly emotional",
+      "Overthinks things",
+      "Gets stressed easily",
+      "Highly independent",
+      "Unfocused"
+    ],
+    "career_matches": [
+      "Marketing Manager",
+      "Creative Director",
+      "Journalist",
+      "Actor/Entertainer",
+      "Counselor",
+      "Social Worker",
+      "Human Resources Specialist",
+      "Public Relations Specialist"
+    ],
+    "cognitive_stack": {
+      "dominant": "Ne (Extraverted Intuition) - Sees possibilities everywhere",
+      "auxiliary": "Fi (Introverted Feeling) - Strong personal values",
+      "tertiary": "Te (Extraverted Thinking) - Organizes for efficiency",
+      "inferior": "Si (Introverted Sensing) - Recalls past experiences"
+    },
+    "famous_examples": ["Robin Williams", "Walt Disney", "Ellen DeGeneres", "Mark Twain"],
+    "relationship_style": "ENFPs are passionate and affectionate partners who seek deep connections. They need freedom to explore while maintaining emotional intimacy with their partner."
+  },
+  "ISTJ": {
+    "title": "The Logistician",
+    "overview": "Practical and fact-oriented individuals, whose reliability cannot be doubted. ISTJs are responsible organizers driven to create and enforce order within systems and institutions.",
+    "strengths": [
+      "Honest and direct",
+      "Strong-willed and dutiful",
+      "Very responsible",
+      "Calm and practical",
+      "Creates and enforces order"
+    ],
+    "weaknesses": [
+      "Stubborn",
+      "Insensitive",
+      "Always by the book",
+      "Judgmental",
+      "Often unreasonably blames themselves"
+    ],
+    "career_matches": [
+      "Accountant",
+      "Business Administrator",
+      "Financial Analyst",
+      "Supply Chain Manager",
+      "Military Officer",
+      "Police Officer",
+      "Lawyer",
+      "Auditor"
+    ],
+    "cognitive_stack": {
+      "dominant": "Si (Introverted Sensing) - Compares present to past",
+      "auxiliary": "Te (Extraverted Thinking) - Organizes efficiently",
+      "tertiary": "Fi (Introverted Feeling) - Personal values",
+      "inferior": "Ne (Extraverted Intuition) - Explores possibilities"
+    },
+    "famous_examples": ["George Washington", "Warren Buffett", "Queen Elizabeth II", "Angela Merkel"],
+    "relationship_style": "ISTJs are loyal and dependable partners who value stability and tradition. They show love through acts of service and appreciate partners who respect their need for routine."
+  },
+  "ISFJ": {
+    "title": "The Defender",
+    "overview": "Very dedicated and warm protectors, always ready to defend their loved ones. ISFJs are industrious caretakers, loyal to traditions and organizations. They are practical, compassionate, and caring.",
+    "strengths": [
+      "Supportive and reliable",
+      "Patient and imaginative",
+      "Observant and loyal",
+      "Hardworking and practical",
+      "Excellent memory for details"
+    ],
+    "weaknesses": [
+      "Takes things personally",
+      "Represses feelings",
+      "Overloads themselves",
+      "Reluctant to change",
+      "Too altruistic"
+    ],
+    "career_matches": [
+      "Nurse/Healthcare Worker",
+      "Elementary Teacher",
+      "Social Worker",
+      "Administrative Assistant",
+      "Customer Service Manager",
+      "Counselor",
+      "Librarian",
+      "Office Manager"
+    ],
+    "cognitive_stack": {
+      "dominant": "Si (Introverted Sensing) - Recalls past experiences",
+      "auxiliary": "Fe (Extraverted Feeling) - Harmonizes with others",
+      "tertiary": "Ti (Introverted Thinking) - Analyzes information",
+      "inferior": "Ne (Extraverted Intuition) - Sees possibilities"
+    },
+    "famous_examples": ["Mother Teresa", "Rosa Parks", "Queen Elizabeth II", "Kate Middleton"],
+    "relationship_style": "ISFJs are devoted and caring partners who prioritize their loved ones' needs. They value stability and show affection through practical support and acts of service."
+  },
+  "ESTJ": {
+    "title": "The Executive",
+    "overview": "Excellent administrators, unsurpassed at managing things or people. ESTJs are hardworking traditionalists, eager to take charge in organizing projects and people to get things done.",
+    "strengths": [
+      "Organized and efficient",
+      "Strong leadership skills",
+      "Dedicated and strong-willed",
+      "Direct and honest",
+      "Loyal and patient"
+    ],
+    "weaknesses": [
+      "Inflexible and stubborn",
+      "Uncomfortable with unconventional situations",
+      "Judgmental",
+      "Too focused on social status",
+      "Difficulty expressing emotions"
+    ],
+    "career_matches": [
+      "Business Executive",
+      "Military Officer",
+      "Judge",
+      "Financial Officer",
+      "Sales Manager",
+      "Real Estate Developer",
+      "Hotel Manager",
+      "Police Officer"
+    ],
+    "cognitive_stack": {
+      "dominant": "Te (Extraverted Thinking) - Organizes the external world",
+      "auxiliary": "Si (Introverted Sensing) - Relies on past experience",
+      "tertiary": "Ne (Extraverted Intuition) - Considers possibilities",
+      "inferior": "Fi (Introverted Feeling) - Personal values"
+    },
+    "famous_examples": ["Frank Sinatra", "Hillary Clinton", "Vince Lombardi", "Judge Judy"],
+    "relationship_style": "ESTJs are traditional partners who value commitment and stability. They show love through providing security and taking care of practical matters."
+  },
+  "ESFJ": {
+    "title": "The Consul",
+    "overview": "Extraordinarily caring, social, and popular people, always eager to help. ESFJs are conscientious helpers, sensitive to the needs of others and energetically dedicated to their responsibilities.",
+    "strengths": [
+      "Practical and reliable",
+      "Strong sense of duty",
+      "Very loyal",
+      "Sensitive and warm",
+      "Good at connecting with others"
+    ],
+    "weaknesses": [
+      "Worried about social status",
+      "Inflexible",
+      "Vulnerable to criticism",
+      "Too needy",
+      "Too selfless"
+    ],
+    "career_matches": [
+      "Elementary Teacher",
+      "Healthcare Administrator",
+      "Event Coordinator",
+      "Public Relations Manager",
+      "Human Resources Manager",
+      "Sales Representative",
+      "Nurse",
+      "Social Worker"
+    ],
+    "cognitive_stack": {
+      "dominant": "Fe (Extraverted Feeling) - Creates harmony",
+      "auxiliary": "Si (Introverted Sensing) - Recalls important details",
+      "tertiary": "Ne (Extraverted Intuition) - Explores options",
+      "inferior": "Ti (Introverted Thinking) - Internal logic"
+    },
+    "famous_examples": ["Taylor Swift", "Bill Clinton", "Jennifer Garner", "Steve Harvey"],
+    "relationship_style": "ESFJs are caring and supportive partners who prioritize harmony and emotional connection. They express love through acts of service and quality time."
+  },
+  "ISTP": {
+    "title": "The Virtuoso",
+    "overview": "Bold and practical experimenters, masters of all kinds of tools. ISTPs are observant artisans with an understanding of mechanics and an interest in troubleshooting.",
+    "strengths": [
+      "Practical and creative",
+      "Great in crisis",
+      "Relaxed and flexible",
+      "Rational and logical",
+      "Excellent problem-solvers"
+    ],
+    "weaknesses": [
+      "Stubborn",
+      "Insensitive",
+      "Private and reserved",
+      "Easily bored",
+      "Risky behavior"
+    ],
+    "career_matches": [
+      "Mechanic/Engineer",
+      "Computer Programmer",
+      "Pilot",
+      "Forensic Scientist",
+      "Athletic Trainer",
+      "Carpenter",
+      "Police Officer",
+      "Chef"
+    ],
+    "cognitive_stack": {
+      "dominant": "Ti (Introverted Thinking) - Logical analysis",
+      "auxiliary": "Se (Extraverted Sensing) - Engages with environment",
+      "tertiary": "Ni (Introverted Intuition) - Sees patterns",
+      "inferior": "Fe (Extraverted Feeling) - Considers others' feelings"
+    },
+    "famous_examples": ["Clint Eastwood", "Tom Cruise", "Michael Jordan", "Daniel Craig"],
+    "relationship_style": "ISTPs are independent partners who show love through actions rather than words. They need space and appreciate partners who respect their autonomy."
+  },
+  "ISFP": {
+    "title": "The Adventurer",
+    "overview": "Flexible and charming artists, always ready to explore and experience something new. ISFPs are gentle caretakers who live in the present moment and enjoy their surroundings with cheerful, low-key enthusiasm.",
+    "strengths": [
+      "Charming and imaginative",
+      "Passionate and curious",
+      "Artistic and creative",
+      "Flexible and spontaneous",
+      "Sensitive to others"
+    ],
+    "weaknesses": [
+      "Overly competitive",
+      "Unpredictable",
+      "Easily stressed",
+      "Fiercely independent",
+      "Self-esteem issues"
+    ],
+    "career_matches": [
+      "Artist/Designer",
+      "Musician/Composer",
+      "Chef",
+      "Fashion Designer",
+      "Photographer",
+      "Massage Therapist",
+      "Veterinarian",
+      "Forest Ranger"
+    ],
+    "cognitive_stack": {
+      "dominant": "Fi (Introverted Feeling) - Strong personal values",
+      "auxiliary": "Se (Extraverted Sensing) - Aesthetic appreciation",
+      "tertiary": "Ni (Introverted Intuition) - Future insights",
+      "inferior": "Te (Extraverted Thinking) - External organization"
+    },
+    "famous_examples": ["Bob Dylan", "Frida Kahlo", "Michael Jackson", "Lana Del Rey"],
+    "relationship_style": "ISFPs are warm and considerate partners who express love through thoughtful gestures. They need emotional space and appreciate partners who support their creative expression."
+  },
+  "ESTP": {
+    "title": "The Entrepreneur",
+    "overview": "Smart, energetic, and very perceptive people who truly enjoy living on the edge. ESTPs are energetic thrillseekers who are at their best when putting out fires, literal or metaphorical.",
+    "strengths": [
+      "Bold and practical",
+      "Original and perceptive",
+      "Direct and sociable",
+      "Excellent people skills",
+      "Action-oriented"
+    ],
+    "weaknesses": [
+      "Insensitive",
+      "Impatient",
+      "Risk-prone",
+      "Unstructured",
+      "Defiant"
+    ],
+    "career_matches": [
+      "Entrepreneur",
+      "Sales Manager",
+      "Marketing Director",
+      "Police Officer",
+      "Paramedic",
+      "Athletic Coach",
+      "Real Estate Broker",
+      "Entertainment Agent"
+    ],
+    "cognitive_stack": {
+      "dominant": "Se (Extraverted Sensing) - Lives in the moment",
+      "auxiliary": "Ti (Introverted Thinking) - Logical problem-solving",
+      "tertiary": "Fe (Extraverted Feeling) - Social awareness",
+      "inferior": "Ni (Introverted Intuition) - Long-term vision"
+    },
+    "famous_examples": ["Ernest Hemingway", "Madonna", "Bruce Willis", "Eddie Murphy"],
+    "relationship_style": "ESTPs are exciting and spontaneous partners who keep relationships fresh. They express love through shared adventures and physical affection."
+  },
+  "ESFP": {
+    "title": "The Entertainer",
+    "overview": "Spontaneous, energetic, and enthusiastic people who love life and everything it has to offer. ESFPs are vivacious entertainers who charm and engage those around them with enthusiasm and humor.",
+    "strengths": [
+      "Bold and original",
+      "Aesthetics and showmanship",
+      "Practical and observant",
+      "Excellent people skills",
+      "Optimistic and enthusiastic"
+    ],
+    "weaknesses": [
+      "Sensitive to criticism",
+      "Conflict-averse",
+      "Easily bored",
+      "Poor long-term planners",
+      "Unfocused"
+    ],
+    "career_matches": [
+      "Event Planner",
+      "Sales Representative",
+      "Tour Guide",
+      "Flight Attendant",
+      "Actor/Performer",
+      "Elementary Teacher",
+      "Fashion Designer",
+      "Public Relations Specialist"
+    ],
+    "cognitive_stack": {
+      "dominant": "Se (Extraverted Sensing) - Experiences the present fully",
+      "auxiliary": "Fi (Introverted Feeling) - Personal values guide decisions",
+      "tertiary": "Te (Extraverted Thinking) - Practical organization",
+      "inferior": "Ni (Introverted Intuition) - Future implications"
+    },
+    "famous_examples": ["Marilyn Monroe", "Jamie Foxx", "Miley Cyrus", "Adam Levine"],
+    "relationship_style": "ESFPs are affectionate and fun-loving partners who bring joy and spontaneity to relationships. They express love through quality time and creating memorable experiences."
+  }
+}
