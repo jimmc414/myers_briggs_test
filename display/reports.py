@@ -76,7 +76,7 @@ class Reports:
         
         # ASCII art for the type
         type_ascii = pyfiglet.figlet_format(mbti_type, font="standard")
-        console.print(type_ascii, style="primary", justify="center")
+        console.print(f"[primary]{type_ascii}[/primary]", justify="center")
         
         if title:
             console.print(f"[bold]{title}[/bold]", justify="center")

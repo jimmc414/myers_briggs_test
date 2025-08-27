@@ -26,7 +26,7 @@ class UIComponents:
         # Animated reveal
         for line in lines:
             if line.strip():  # Only print non-empty lines
-                console.print(line, style="primary", justify="center")
+                console.print(f"[primary]{line}[/primary]", justify="center")
                 sleep(0.03)  # Fast, smooth animation
         
         # Subtitle

@@ -166,7 +166,9 @@ class MBTIApp:
         # Ask if user wants to take another test
         console.print("\n")
         if self.ui.confirm_action("Would you like to take another test?"):
-            self.run()
+            # Reset the app state and start fresh instead of recursive call
+            self.__init__()
+            self.start_new_test()
     
     def offer_export(self, results: Dict):
         """
