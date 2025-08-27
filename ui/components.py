@@ -54,7 +54,7 @@ This scientifically-designed test will help you:
         
         panel = Panel(
             Align.center(welcome_text.strip()),
-            border_style="primary",
+            border_style="cyan",
             box=box.ROUNDED,
             padding=(1, 2),
             title="[bold primary]About This Test[/bold primary]"
@@ -116,7 +116,7 @@ Accuracy: {opt['accuracy']}
             panel = Panel(
                 content.strip(),
                 title=opt['title'],
-                border_style="primary" if opt['key'] == 'medium' else "dim",
+                border_style="cyan" if opt['key'] == 'medium' else "dim",
                 box=box.ROUNDED
             )
             console.print(panel)
@@ -275,7 +275,7 @@ Accuracy: {opt['accuracy']}
 [bold]Questions Remaining:[/bold] {progress_data['questions_remaining']}
             """.strip(),
             title="[primary]Overall Progress[/primary]",
-            border_style="primary"
+            border_style="cyan"
         )
         console.print(overall)
         console.print()
@@ -368,7 +368,7 @@ Accuracy: {opt['accuracy']}
         """Display error message."""
         error_panel = Panel(
             f"[error]❌ {message}[/error]",
-            border_style="error",
+            border_style="red",
             box=box.ROUNDED
         )
         console.print(error_panel)
@@ -380,7 +380,7 @@ Accuracy: {opt['accuracy']}
         """Display success message."""
         success_panel = Panel(
             f"[success]✓ {message}[/success]",
-            border_style="success",
+            border_style="green",
             box=box.ROUNDED
         )
         console.print(success_panel)

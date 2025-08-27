@@ -90,7 +90,7 @@ class Reports:
         overview_panel = Panel(
             personality_analysis.get('overview', 'No overview available'),
             title="[primary]Personality Overview[/primary]",
-            border_style="primary",
+            border_style="cyan",
             padding=(1, 2),
             box=box.ROUNDED
         )
@@ -113,14 +113,14 @@ class Reports:
         strengths_panel = Panel(
             strengths_content,
             title="[success]💪 Strengths[/success]",
-            border_style="success",
+            border_style="green",
             box=box.ROUNDED
         )
         
         weaknesses_panel = Panel(
             weaknesses_content,
             title="[warning]🌱 Growth Areas[/warning]",
-            border_style="warning",
+            border_style="yellow",
             box=box.ROUNDED
         )
         
@@ -151,7 +151,7 @@ class Reports:
         career_panel = Panel(
             table,
             title="[primary]💼 Recommended Careers[/primary]",
-            border_style="primary"
+            border_style="cyan"
         )
         console.print(career_panel)
         console.print()
@@ -164,7 +164,7 @@ class Reports:
         famous_panel = Panel(
             f"[cyan]{examples_text}[/cyan]",
             title="[primary]🌟 Famous {mbti_type}s[/primary]",
-            border_style="primary",
+            border_style="cyan",
             box=box.MINIMAL
         )
         console.print(famous_panel)
